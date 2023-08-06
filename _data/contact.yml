@@ -2,12 +2,14 @@
 
 - type: github
   icon: "fab fa-github"
+  url:  'https://github.com/ebeui'
 
-- type: twitter
-  icon: "fab fa-twitter"
+# - type: twitter
+#   icon: "fab fa-twitter"
 
 - type: email
   icon: "fas fa-envelope"
+  url: 'mailro:dianengalu@gmail.com'
   noblank: true # open link in current tab
 
 # - type: rss
