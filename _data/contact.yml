@@ -9,7 +9,7 @@
 
 - type: email
   icon: "fas fa-envelope"
-  url: 'mailro:dianengalu@gmail.com'
+  url: 'mailto:dianengalu@gmail.com'
   noblank: true # open link in current tab
 
 # - type: rss
