@@ -4,11 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 # Hi there, I'm Diane 👋 
-![](https://komarev.com/ghpvc/?username=ebeui&style=for-the-badge&color=green)
 
 ## About Me
 
@@ -34,8 +30,4 @@ I'm always working on exciting data science projects that showcase my abilities 
 
 I'm always open to collaborating on new data projects, discussing data-related ideas, or simply connecting with fellow data enthusiasts. Feel free to reach out to me via [email](mailto:dianengalu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dianengalu/).
 
-Looking forward to exploring data-driven possibilities together! Let's make the world a better place through data! 🌍📊
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ebeui)](https://git.io/streak-stats)
-
-[![ebeui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebeui)](https://github.com/anuraghazra/github-readme-stats)
+Looking forward to exploring data-driven possibilities together! Let's make the world a better place through data! 🌍📊     
